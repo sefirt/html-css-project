@@ -1,0 +1,19 @@
+.boxFather {
+  width: 400px;
+  height: 400px;
+  border: 3px solid brown;
+  background-color: blue;
+}
+.boxChild {
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.boxChildOne {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  margin: 30px;
+  background-color: yellow;
+}

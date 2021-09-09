@@ -1,0 +1,64 @@
+.fontSize {
+  font-size: 20px;
+}
+
+.exampleOne {
+  font-size: 30px;
+}
+.exampleTwo {
+  font-size: 40px;
+}
+.exampleThree {
+  font-size: 50px;
+}
+.exampleFour {
+  font-size: 60px;
+}
+.colors {
+  color: blue;
+}
+.colorOne {
+  color: brown;
+}
+.colorTwo {
+  color: chartreuse;
+}
+.colorThree {
+  color: blueviolet;
+}
+.fotoOne {
+  width: 100px;
+}
+.fotoTwo {
+  max-width: 150px;
+  min-width: 100px;
+}
+.fotoThree {
+  height: 80px;
+}
+.fotoFour {
+  min-height: 90px;
+  max-height: 200px;
+}
+.foto {
+  padding: 20px;
+}
+.photo {
+  margin: 18px;
+}
+.photoTwo {
+  border: 6px solid rebeccapurple;
+}
+.box {
+  width: 50px;
+  height: 50px;
+  background-color: royalblue;
+  border: 8px salmon dotted;
+}
+
+body h1 {
+  color: green;
+}
+.subtitle {
+  color: red;
+}
